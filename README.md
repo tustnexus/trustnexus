@@ -4,7 +4,7 @@ I explore the crossroads of literature, learning, and technology — often by bu
 
 ### 📚 My Current Project
 I'm curating a public dataset of **original, rights-respecting summaries** for middle-grade fiction:
-[**Grades6th7th8th-FictionReadingList**](https://github.com/trustnexus/Grades6th7th8th-FictionReadingList)
+[**Grades6th7th8th-FictionReadingList**](https://github.com/tustnexus/Grades6th7th8th-FictionReadingList)
 
 - Helps educators and students discover diverse stories
 - Respects publisher rights (no scanned or copied text)
