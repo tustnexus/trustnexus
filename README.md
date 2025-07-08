@@ -15,10 +15,11 @@ Contributions are welcome! Check out the `CONTRIBUTING.md` if you'd like to help
 ---
 
 ### 🌱 What I’m interested in
-- 📖 Storytelling + technology
-- 🔍 Open educational resources
-- 🧩 Making structured datasets from unstructured creativity
-- 🛠 Building tools for teachers, learners, and curious minds
+- Storytelling + technology
+- Open educational resources
+- Making structured datasets from unstructured creativity
+- Building tools for teachers, learners, and curious minds
+- Meeting authors 
 
 ---
 
