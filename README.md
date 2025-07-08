@@ -25,7 +25,7 @@ Contributions are welcome! Check out the `CONTRIBUTING.md` if you'd like to help
 ### ✨ Other Ways to Connect
 - Website: [linktr.ee/FictionAuthor](https://linktr.ee/FictionAuthor)
 - Better Writing Newsletter: [warli.substack.com](https://warli.substack.com)
-- AI Newsletter: [warli.substack.com](https://warli.substack.com)
+- AI Newsletter: [anilbahuman.substack.com](https://anilbahuman.substack.com)
 - LinkedIn: [linkedin.com/in/bahuman](https://linkedin.com/in/bahuman)
 - Twitter/X: [@abahuman](https://twitter.com/abahuman)
 
