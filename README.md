@@ -3,6 +3,7 @@
 I explore the crossroads of literature, learning, and technology — often by building thoughtful tools and resources that others can use, remix, and expand.
 
 ###  📚 Private Repo made Public
+This repository contains a Bash script that converts a long plain-text blog or story scene into a single narrated .mp3 audio file using Google Cloud's Text-to-Speech API (male or female voice).
 https://github.com/tustnexus/narrator
 
 ### 📚 My Current Project
