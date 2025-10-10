@@ -2,6 +2,9 @@
 
 I explore the crossroads of literature, learning, and technology — often by building thoughtful tools and resources that others can use, remix, and expand.
 
+###  📚 Private Repo made Public
+https://github.com/tustnexus/narrator
+
 ### 📚 My Current Project
 I'm curating a public dataset of **original, rights-respecting summaries** for middle-grade fiction:
 [**Grades6th7th8th-FictionReadingList**](https://github.com/tustnexus/Grades6th7th8th-FictionReadingList)
