@@ -1,48 +1,46 @@
-## 👋 Hi there, I'm Anil Bahuman!
+## Hi, I'm Anil Bahuman
 
-I explore the crossroads of literature, learning, and technology — often by building thoughtful tools and resources that others can use, remix, and expand. I used to be a professional programmer from 1998-2002. I began vibe coding to challenge myself and some of those appear here.
-
-###  📚 Private Repo made Public
-This repository contains a vibe coded Bash script that converts a long plain-text blog or story scene into a single narrated .mp3 audio file using Google Cloud's Text-to-Speech API (male or female voice).
-https://github.com/tustnexus/narrator
-
-## 🗂️ My Current Project
-I've vibe coded and built a basic utility that converts a Google Drive full of scattered documents into a structured, AI-enriched semantic index (think of it like a personal knowledge/metadata infrastructure): __[drive-semantic-index](https://github.com/tustnexus/drive-tool)__
-
-* Extracts text snippets from Drive files using rclone — no proprietary APIs
-* Enriches each document with tags, themes, entities, and reuse scores via AI prompts
-* Includes Prompt to produce thematic cluster maps that reveal connections across your own writing over time
-
-Designed for thoughtful builders who want their past work to compound. Lightweight scripts, no cloud dependencies beyond your existing Drive.
-
-### 📚 My Earlier Project
-I'm curating a public dataset of **original, rights-respecting summaries** for middle-grade fiction:
-[**Grades6th7th8th-FictionReadingList**](https://github.com/tustnexus/Grades6th7th8th-FictionReadingList)
-
-- Helps educators and students discover diverse stories
-- Respects publisher rights (no scanned or copied text)
-- Includes YAML/JSON metadata to enable search, tagging, and educational use
-
-Contributions are welcome! Check out the `CONTRIBUTING.md` if you'd like to help.
+I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. I hold a Masters in AI from UGA Athens.
 
 ---
 
-### 📚 What I’m interested in
-- Storytelling + technology
+## What I'm Building Now
+
+**[drive-tool](https://github.com/tustnexus/drive-tool)** turns a scattered Google Drive into a structured semantic index.
+
+- rclone pulls text snippets. No proprietary APIs.
+- AI prompts add tags, themes, entities, and reuse scores.
+- A cluster-map prompt surfaces connections you didn't know existed.
+
+Built for people who want their past work to compound.
+
+---
+
+## Running in Background
+
+**[narrator](https://github.com/tustnexus/narrator)** converts a plain-text blog post or story scene into a narrated .mp3 using Google Cloud Text-to-Speech. Male or female voice. One script.
+
+**[Grades6th7th8th-FictionReadingList](https://github.com/tustnexus/Grades6th7th8th-FictionReadingList)** is a public dataset of original summaries for middle-grade fiction. No scanned text. YAML and JSON metadata for search and tagging. Contributions welcome — see `CONTRIBUTING.md`.
+
+---
+
+## What I Think About
+
+- Storytelling and technology
 - Open educational resources
-- Making structured datasets from unstructured creativity
-- Building tools for teachers, learners, and curious minds
-- Meeting authors and people from IIT Bombay or Harvard (I'm a Harvard Alumnus, and stayed in IIT Bombay from 2002-2020) 
+- Structured data from unstructured creativity
+- Tools for teachers, learners, and builders
 
 ---
 
-### 📚 Other Ways to Connect
-- Website: [linktr.ee/FictionAuthor](https://linktr.ee/FictionAuthor)
-- Better Writing Newsletter: [warli.substack.com](https://warli.substack.com)
-- AI Newsletter: [anilbahuman.substack.com](https://anilbahuman.substack.com)
+## Connect
+
+- Fiction and writing: [linktr.ee/FictionAuthor](https://linktr.ee/FictionAuthor)
+- Writing newsletter: [warli.substack.com](https://warli.substack.com)
+- AI newsletter: [anilbahuman.substack.com](https://anilbahuman.substack.com)
 - LinkedIn: [linkedin.com/in/bahuman](https://linkedin.com/in/bahuman)
-- Twitter/X: [@abahuman](https://twitter.com/abahuman)
+- X: [@abahuman](https://twitter.com/abahuman)
 
----
+Harvard alumnus. Lived at IIT Bombay 2002–2020.
 
-> “Curate quietly. Share generously. Remix responsibly.”
+> "Curate quietly. Share generously. Remix responsibly."
