@@ -6,7 +6,16 @@ I explore the crossroads of literature, learning, and technology — often by bu
 This repository contains a Bash script that converts a long plain-text blog or story scene into a single narrated .mp3 audio file using Google Cloud's Text-to-Speech API (male or female voice).
 https://github.com/tustnexus/narrator
 
-### 📚 My Current Project
+## 🗂️ My Current Project
+I've built a basic utility that converts a Google Drive full of scattered documents into a structured, AI-enriched semantic index (think of it like a personal knowledge/metadata infrastructure): __[drive-semantic-index](https://github.com/tustnexus/drive-semantic-index)__
+
+* Extracts text snippets from Drive files using rclone — no proprietary APIs
+* Enriches each document with tags, themes, entities, and reuse scores via AI prompts
+* Includes Prompt to produce thematic cluster maps that reveal connections across your own writing over time
+
+Designed for thoughtful builders who want their past work to compound. Lightweight scripts, no cloud dependencies beyond your existing Drive.
+
+### 📚 My Earlier Project
 I'm curating a public dataset of **original, rights-respecting summaries** for middle-grade fiction:
 [**Grades6th7th8th-FictionReadingList**](https://github.com/tustnexus/Grades6th7th8th-FictionReadingList)
 
