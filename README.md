@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Anil Bahuman!
 
-I explore the crossroads of literature, learning, and technology — often by building thoughtful tools and resources that others can use, remix, and expand.
+I explore the crossroads of literature, learning, and technology — often by building thoughtful tools and resources that others can use, remix, and expand. I used to be a professional programmer from 1998-2002. I began vibe coding to challenge myself and some of those appear here.
 
 ###  📚 Private Repo made Public
 This repository contains a Bash script that converts a long plain-text blog or story scene into a single narrated .mp3 audio file using Google Cloud's Text-to-Speech API (male or female voice).
