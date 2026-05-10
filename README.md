@@ -7,7 +7,7 @@ This repository contains a Bash script that converts a long plain-text blog or s
 https://github.com/tustnexus/narrator
 
 ## 🗂️ My Current Project
-I've built a basic utility that converts a Google Drive full of scattered documents into a structured, AI-enriched semantic index (think of it like a personal knowledge/metadata infrastructure): __[drive-semantic-index](https://github.com/tustnexus/drive-semantic-index)__
+I've built a basic utility that converts a Google Drive full of scattered documents into a structured, AI-enriched semantic index (think of it like a personal knowledge/metadata infrastructure): __[drive-semantic-index](https://github.com/tustnexus/drive-tool)__
 
 * Extracts text snippets from Drive files using rclone — no proprietary APIs
 * Enriches each document with tags, themes, entities, and reuse scores via AI prompts
