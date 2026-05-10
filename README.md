@@ -3,11 +3,11 @@
 I explore the crossroads of literature, learning, and technology — often by building thoughtful tools and resources that others can use, remix, and expand. I used to be a professional programmer from 1998-2002. I began vibe coding to challenge myself and some of those appear here.
 
 ###  📚 Private Repo made Public
-This repository contains a Bash script that converts a long plain-text blog or story scene into a single narrated .mp3 audio file using Google Cloud's Text-to-Speech API (male or female voice).
+This repository contains a vibe coded Bash script that converts a long plain-text blog or story scene into a single narrated .mp3 audio file using Google Cloud's Text-to-Speech API (male or female voice).
 https://github.com/tustnexus/narrator
 
 ## 🗂️ My Current Project
-I've built a basic utility that converts a Google Drive full of scattered documents into a structured, AI-enriched semantic index (think of it like a personal knowledge/metadata infrastructure): __[drive-semantic-index](https://github.com/tustnexus/drive-tool)__
+I've vibe coded and built a basic utility that converts a Google Drive full of scattered documents into a structured, AI-enriched semantic index (think of it like a personal knowledge/metadata infrastructure): __[drive-semantic-index](https://github.com/tustnexus/drive-tool)__
 
 * Extracts text snippets from Drive files using rclone — no proprietary APIs
 * Enriches each document with tags, themes, entities, and reuse scores via AI prompts
