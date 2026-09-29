@@ -34,10 +34,10 @@ Built for people who want their past work to compound.
 ---
 
 ## Connect
-
-- Fiction and writing: [linktr.ee/FictionAuthor](https://linktr.ee/FictionAuthor)
-- Writing newsletter: [warli.substack.com](https://warli.substack.com)
-- AI newsletter: [anilbahuman.substack.com](https://anilbahuman.substack.com)
+- eCommerce and AI: [Substack](https://anilbahuman.substack.com/about)
+- Fiction and writing: [linktr.ee](https://linktr.ee/FictionAuthor)
+- Writing newsletter: [Substack](https://warli.substack.com)
+- Professional Link: [anilbahuman.substack.com](https://anilbahuman.substack.com)
 - LinkedIn: [linkedin.com/in/bahuman](https://linkedin.com/in/bahuman)
 - X: [@abahuman](https://twitter.com/abahuman)
 
