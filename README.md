@@ -34,13 +34,16 @@ Built for people who want their past work to compound.
 ---
 
 ## Connect
-- eCommerce and AI: [Substack](https://anilbahuman.substack.com/about)
-- Fiction and writing: [linktr.ee](https://linktr.ee/FictionAuthor)
-- Writing newsletter: [Substack](https://warli.substack.com)
-- Professional Link: [anilbahuman.substack.com](https://anilbahuman.substack.com)
-- LinkedIn: [linkedin.com/in/bahuman](https://linkedin.com/in/bahuman)
-- X: [@abahuman](https://twitter.com/abahuman)
+## Connect
 
-Harvard alumnus. Lived at IIT Bombay 2002–2020.
+- AI newsletter: [anilbahuman.com/warli](https://anilbahuman.com/ai)
+- Writing newsletter: [anilbahuman.com/warli](https://anilbahuman.com/warli)
+- eCommerce and AI: [anilbahuman.com/pro](https://anilbahuman.com/pro)
+- Fiction: [anilbahuman.com/books](https://anilbahuman.com/books)
+- Fiction and writing: [anilbahuman.com/fiction](https://anilbahuman.com/fiction)
+- LinkedIn: [linkedin.com/in/bahuman](https://linkedin.com/in/bahuman)
+- X: [@abahuman](https://x.com/abahuman)
+
+Harvard alumnus. Lives in Mumbai. Resided at IIT Bombay 2002–2020.
 
 > "Curate quietly. Share generously. Remix responsibly."
