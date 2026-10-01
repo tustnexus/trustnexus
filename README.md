@@ -6,7 +6,7 @@ I vibe code. I build tools that sit at the intersection of literature, learning,
 
 ## What I'm Building Now
 
-**[drive-tool](https://github.com/tustnexus/drive-tool)** turns a scattered Google Drive into a structured semantic index.
+<a href="https://anilbahuman.com" target="_blank" rel="noopener noreferrer">Example</a>
 
 - rclone pulls text snippets. No proprietary APIs.
 - AI prompts add tags, themes, entities, and reuse scores.
