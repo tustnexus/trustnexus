@@ -36,13 +36,16 @@ Built for people who want their past work to compound.
 
 ---
 
-## Connect
+## Read More  Connect
 
 - AI newsletter: [anilbahuman.com/warli](https://anilbahuman.com/ai)
 - Writing newsletter: [anilbahuman.com/warli](https://anilbahuman.com/warli)
 - eCommerce and AI: [anilbahuman.com/pro](https://anilbahuman.com/pro)
 - Fiction: [anilbahuman.com/books](https://anilbahuman.com/books)
 - Fiction and writing: [anilbahuman.com/fiction](https://anilbahuman.com/fiction)
+
+##   Connect
+
 - LinkedIn: [linkedin.com/in/bahuman](https://linkedin.com/in/bahuman)
 - X: [@abahuman](https://x.com/abahuman)
 
