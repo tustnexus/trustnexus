@@ -34,6 +34,7 @@ Built for people who want their past work to compound.
 ---
 
 ## Connect
+<a href="https://github.com/tustnexus/drive-tool" target="_blank" rel="noopener noreferrer">drive-tool</a>
 
 - AI newsletter: [anilbahuman.com/warli](https://anilbahuman.com/ai)
 - Writing newsletter: [anilbahuman.com/warli](https://anilbahuman.com/warli)
