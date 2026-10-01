@@ -36,13 +36,16 @@ Built for people who want their past work to compound.
 
 ---
 
-## Read More
+## Online Publications
 
 - AI newsletter: [anilbahuman.com/warli](https://anilbahuman.com/ai)
 - Writing newsletter: [anilbahuman.com/warli](https://anilbahuman.com/warli)
 - eCommerce and AI: [anilbahuman.com/pro](https://anilbahuman.com/pro)
-- Fiction: [anilbahuman.com/books](https://anilbahuman.com/books)
 - Fiction and writing: [anilbahuman.com/fiction](https://anilbahuman.com/fiction)
+
+## Novels on Apple, Amazon and Barnes & Noble
+- Fiction: [anilbahuman.com/books](https://anilbahuman.com/books)
+Includes 2022 paperback, Kindle ebook and audiobook.
 
 ##   Connect
 
