@@ -1,12 +1,12 @@
 ## Hi, I'm Anil Bahuman
 
-I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. I hold a Masters in AI from UGA Athens (ai.uga.edu). Alumnus, Harvard Business School (2018-19). I have been a [scholar](https://anilbahuman.com/scholar) and now I write stories.
+I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. I hold a Masters in AI from UGA Athens (ai.uga.edu). Alumnus, Harvard Business School (2018-19). 
 
+---
+I have been a [scholar](https://anilbahuman.com/scholar) and now I create fictional worlds and narratives. From [Ramayana retellings](hyphenplay.com) to [Mumbai romance](hyphenplay.com/parel1), explore the stories—and the craft behind them at Studio Hyphenplay.
 ---
 
 ## What I'm Building Now
-
-<a href="https://google.com" target="_blank" rel="noopener noreferrer">Example</a>
 
 - rclone pulls text snippets. No proprietary APIs.
 - AI prompts add tags, themes, entities, and reuse scores.
