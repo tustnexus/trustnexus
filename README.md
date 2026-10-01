@@ -1,6 +1,6 @@
 ## Hi, I'm Anil Bahuman
 
-I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. I hold a Masters in AI from UGA Athens (ai.uga.edu). Alumnus, Harvard Business School (2018-19).
+I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. I hold a Masters in AI from UGA Athens (ai.uga.edu). Alumnus, Harvard Business School (2018-19). I have been a [scholar](https://anilbahuman.com/scholar) and now I write stories.
 
 ---
 
