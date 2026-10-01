@@ -5,7 +5,7 @@ I vibe code. I build tools that sit at the intersection of literature, learning,
 ---
 
 ## What I contribute occasionally now
-I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Ramayana retellings](hyphenplay.com) and [Mumbai romance](hyphenplay.com/parel1).
+I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Ramayana retellings](https://hyphenplay.com) and [Mumbai romance](https://hyphenplay.com/parel1).
 
 ---
 
