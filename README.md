@@ -9,7 +9,7 @@ I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Rama
 
 ---
 
-## What I'm Building Now
+## How I organize my Google Drive
 
 - rclone pulls text snippets. No proprietary APIs.
 - AI prompts add tags, themes, entities, and reuse scores.
@@ -27,7 +27,7 @@ Built for people who want their past work to compound.
 
 ---
 
-## What I Think About
+## What I Think About in my free time
 
 - Storytelling and technology
 - Open educational resources
