@@ -36,7 +36,7 @@ Built for people who want their past work to compound.
 
 ---
 
-## Read More  Connect
+## Read More
 
 - AI newsletter: [anilbahuman.com/warli](https://anilbahuman.com/ai)
 - Writing newsletter: [anilbahuman.com/warli](https://anilbahuman.com/warli)
