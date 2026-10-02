@@ -27,6 +27,18 @@ Built for people who want their past work to compound.
 
 ---
 
+## Running in Background
+
+**[narrator](https://github.com/tustnexus/narrator)** converts a plain-text blog post or story scene into a narrated .mp3 using Google Cloud Text-to-Speech. Male or female voice. One script.
+
+**[Grades6th7th8th-FictionReadingList](https://github.com/tustnexus/Grades6th7th8th-FictionReadingList)** is a public dataset of original summaries for middle-grade fiction. No scanned text. YAML and JSON metadata for search and tagging. Contributions welcome — see `CONTRIBUTING.md`.
+
+**[AI Thought Experiment](https://tustnexus.github.io/vc4e-sims/thought-experiment/)** is an interactive thought experiment exploring what happens when an AI system is given a human-level task and progressively expanded capabilities.
+
+**[India 2026](https://india-2026.anil-bahuman.workers.dev/)** is an interactive exploration of India in 2026, bringing together perspectives, data and context to examine the country at a particular moment in time.
+
+---
+
 ## What I Think About in my free time
 
 - Storytelling and technology
