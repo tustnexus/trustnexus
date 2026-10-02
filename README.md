@@ -1,6 +1,6 @@
 ## Hi, I'm Anil Bahuman
 
-I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. Alumnus, Harvard Business School (2018-19). I resided in IIT Bombay (2002-2020),  hold a Masters in AI from UGA Athens (ai.uga.edu, 1999-2001) and have been part of two digital startups in the past. I'm a EEE engineer by training.
+I vibe code. I build tools that sit at the intersection of literature, learning, and technology. Alumnus, Harvard Business School (2018-19). I resided in IIT Bombay (2002-2020),  hold a Masters in AI from UGA Athens (ai.uga.edu, 1999-2001) and have been part of two digital startups in the past. I'm a EEE engineer by training. I coded professionally from 1998–2002 for Citibank and UGA.
 
 ---
 
