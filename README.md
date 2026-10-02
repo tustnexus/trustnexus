@@ -1,6 +1,6 @@
 ## Hi, I'm Anil Bahuman
 
-I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. I hold a Masters in AI from UGA Athens (ai.uga.edu). Alumnus, Harvard Business School (2018-19). 
+I vibe code. I build tools that sit at the intersection of literature, learning, and technology. I coded professionally from 1998–2002. Alumnus, Harvard Business School (2018-19). I hold a Masters in AI from UGA Athens (ai.uga.edu, 1999-2001) and have been part of two digital startups in the past. 
 
 ---
 
@@ -16,14 +16,6 @@ I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Rama
 - A cluster-map prompt surfaces connections you didn't know existed.
 
 Built for people who want their past work to compound.
-
----
-
-## Running in Background
-
-**[narrator](https://github.com/tustnexus/narrator)** converts a plain-text blog post or story scene into a narrated .mp3 using Google Cloud Text-to-Speech. Male or female voice. One script.
-
-**[Grades6th7th8th-FictionReadingList](https://github.com/tustnexus/Grades6th7th8th-FictionReadingList)** is a public dataset of original summaries for middle-grade fiction. No scanned text. YAML and JSON metadata for search and tagging. Contributions welcome — see `CONTRIBUTING.md`.
 
 ---
 
