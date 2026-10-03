@@ -15,6 +15,7 @@ I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Rama
 - AI prompts add tags, themes, entities, and reuse scores.
 - A cluster-map prompt surfaces connections you didn't know existed.
 
+[Drive-tool] (https://github.com/tustnexus/drive-tool)
 Built for people who want their past work to compound.
 
 ---
