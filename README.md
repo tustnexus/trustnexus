@@ -45,7 +45,7 @@ Built for people who want their past work to compound.
 
 ## Online Publications
 
-- AI newsletter: [anilbahuman.com/warli](https://anilbahuman.com/ai)
+- AI newsletter: [anilbahuman.com/ai](https://anilbahuman.com/ai)
 - Writing newsletter: [anilbahuman.com/warli](https://anilbahuman.com/warli)
 - eCommerce and AI: [anilbahuman.com/pro](https://anilbahuman.com/pro)
 - Fiction and writing: [anilbahuman.com/fiction](https://anilbahuman.com/fiction)
