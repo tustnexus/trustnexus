@@ -54,7 +54,7 @@ Built for people who want their past work to compound.
 - Fiction: [anilbahuman.com/books](https://anilbahuman.com/books)
 Includes 2022 paperback, Kindle ebook and audiobook.
 
-*Vibe Coding for Engineers*[](https://github.com/tustnexus/vc4e-sims)  is a set of [Interactive HTML simulations](https://vc4e-sims.anil-bahuman.workers.dev/) accompanying the book Vibe Coding for Engineers. Textbook is WIP.
+- *Vibe Coding for Engineers*[](https://github.com/tustnexus/vc4e-sims)  is a set of [Interactive HTML simulations](https://vc4e-sims.anil-bahuman.workers.dev/) accompanying the book Vibe Coding for Engineers. Textbook is WIP.
 
 ##   Connect
 
