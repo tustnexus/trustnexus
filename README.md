@@ -15,7 +15,7 @@ I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Rama
 - AI prompts add tags, themes, entities, and reuse scores.
 - A cluster-map prompt surfaces connections you didn't know existed.
 
-[Drive-tool] (https://github.com/tustnexus/drive-tool)
+[Drive-tool](https://github.com/tustnexus/drive-tool)
 Built for people who want their past work to compound.
 
 ---
@@ -29,6 +29,10 @@ Built for people who want their past work to compound.
 **[AI Thought Experiment](https://tustnexus.github.io/vc4e-sims/thought-experiment/)** is an interactive thought experiment exploring what happens when an AI system is given a human-level task and progressively expanded capabilities.
 
 **[India 2026](https://india-2026.anil-bahuman.workers.dev/)** is an interactive exploration of India in 2026, bringing together perspectives, data and context to examine the country at a particular moment in time.
+
+**[metro Public](https://github.com/tustnexus/metro)** is a Travel alternatives econometrics project in R for Mumbai Metro 3 access: synthetic RP-SP data generation
+
+*Vibe Coding for Engineers*[](https://github.com/tustnexus/vc4e-sims)  is a set of [Interactive HTML simulations](https://vc4e-sims.anil-bahuman.workers.dev/) accompanying the book Vibe Coding for Engineers.
 
 ---
 
