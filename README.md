@@ -32,8 +32,6 @@ Built for people who want their past work to compound.
 
 **[metro Public](https://github.com/tustnexus/metro)** is a Travel alternatives econometrics project in R for Mumbai Metro 3 access: synthetic RP-SP data generation
 
-*Vibe Coding for Engineers*[](https://github.com/tustnexus/vc4e-sims)  is a set of [Interactive HTML simulations](https://vc4e-sims.anil-bahuman.workers.dev/) accompanying the book Vibe Coding for Engineers.
-
 ---
 
 ## What I Think About in my free time
@@ -55,6 +53,8 @@ Built for people who want their past work to compound.
 ## Novels on Apple, Amazon and Barnes & Noble
 - Fiction: [anilbahuman.com/books](https://anilbahuman.com/books)
 Includes 2022 paperback, Kindle ebook and audiobook.
+
+*Vibe Coding for Engineers*[](https://github.com/tustnexus/vc4e-sims)  is a set of [Interactive HTML simulations](https://vc4e-sims.anil-bahuman.workers.dev/) accompanying the book Vibe Coding for Engineers. Textbook is WIP.
 
 ##   Connect
 
