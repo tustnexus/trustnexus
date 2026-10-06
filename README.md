@@ -74,7 +74,7 @@ Includes 2022 paperback, Kindle ebook and audiobook.
   * Tech for Good, User-Generated Content Forums and own business since (2002-2013)
 
 * **Professional Business Development (2013-):**
-  * Apps and Media, 2013 to Present
+  * Mobile Apps and Media (exclusive to an Indian MNO), 2013 to Present.
 
 * **Giving Back (2013-)**
   * Mentor and Charter Member to Mumbai entrepreneurs, TiE Mumbai - Feedback on Startup Pitches esp. Tech.
