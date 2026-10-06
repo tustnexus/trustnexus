@@ -74,12 +74,12 @@ Includes 2022 paperback, Kindle ebook and audiobook.
   * Tech for Good, User-Generated Content Forums and own business since (2002-2013)
 
 * **Professional Business Development (2013-):**
-* Apps and Media, 2013 to Present
+  * Apps and Media, 2013 to Present
 
 * **Giving Back (2013-)**
-* Mentor and Charter Member to Mumbai entrepreneurs, TiE Mumbai - Feedback on Startup Pitches esp. Tech.
-* Program Committee Member, SIGMOD, Hilda.io  - Feedback on Data Visualization Research papers.
-* Fiction writing books since 2024 - Historical Fiction and Contemporary Romance Genres.
+  * Mentor and Charter Member to Mumbai entrepreneurs, TiE Mumbai - Feedback on Startup Pitches esp. Tech.
+  * Program Committee Member, SIGMOD, Hilda.io  - Feedback on Data Visualization Research papers.
+  * Fiction writing books since 2024 - Historical Fiction and Contemporary Romance Genres.
   
 ---
 ##   Connect
