@@ -5,7 +5,7 @@ Harvard alumnus. Lives in Mumbai. Resided at IIT Bombay 2002–2020.
 ---
 
 ## What I contribute occasionally now
-I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Ramayana retellings](https://hyphenplay.com) and [Mumbai romance](https://hyphenplay.com/parel1).
+I have been a [scholar](https://anilbahuman.com/scholar). Now I contribute [Ramayana retellings](https://hyphenplay.com) and [Mumbai romance](https://hyphenplay.com/parel1). Genres I write in are Historical Fiction and Contemporary Romance.
 
 ---
 
@@ -56,12 +56,36 @@ Includes 2022 paperback, Kindle ebook and audiobook.
 
 - *Vibe Coding for Engineers*[](https://github.com/tustnexus/vc4e-sims)  is a set of [Interactive HTML simulations](https://vc4e-sims.anil-bahuman.workers.dev/) accompanying the book Vibe Coding for Engineers. Textbook is WIP.
 
+---
+
+## Background & Education
+* **Harvard Business School** — Alumnus (2018–2019)
+* **IIT Bombay** — Resided & worked (2002–2020)
+* **University of Georgia (UGA), Athens** — M.S. in Artificial Intelligence (1999–2001)
+* **Electrical & Electronics Engineering (EEE)** — B.E. / B.Tech by training
+
+---
+
+## Experience & Track Record
+* **Professional Software Engineering (1998–2002):**
+  * Citibank (Sw engineer) -> Boeing (UI/UX) -> Atlanta Startup (AI Engineer)
+  * University of Georgia (AI Engineer)
+* **Startups:** Co-founded / key team member in 2 digital startups.
+  * Tech for Good, User-Generated Content Forums and own business since (2002-2013)
+
+* **Professional Business Development (2013-):**
+* Apps and Media, 2013 to Present
+
+* **Giving Back (2013-)**
+* Mentor and Charter Member to Mumbai entrepreneurs, TiE Mumbai - Feedback on Startup Pitches esp. Tech.
+* Program Committee Member, SIGMOD, Hilda.io  - Feedback on Data Visualization Research papers.
+* Fiction writing books since 2024 - Historical Fiction and Contemporary Romance Genres.
+  
+---
 ##   Connect
 
 - LinkedIn: [linkedin.com/in/bahuman](https://linkedin.com/in/bahuman)
 - X: [@abahuman](https://x.com/abahuman)
 
-I vibe code. I build tools that sit at the intersection of literature, learning, and technology. Alumnus, Harvard Business School (2018-19). 
-I resided in IIT Bombay (2002-2020), hold a Masters in AI from UGA Athens (ai.uga.edu, 1999-2001) and have been part of two digital startups in the past. I'm a EEE engineer by training. I coded professionally from 1998–2002 for Citibank, UGA and an Atlanta startup. Based in Mumbai.
 
 > "Curate quietly. Share generously. Remix responsibly."
